@@ -1,8 +1,9 @@
 Traffic-Sign-Detection project
-Team members:
-* Ali Safarpoor Dehkordi
-* Zahra Yousefi
-* Hossein Parto Hafshejani
-* Mohammad Mozafari
+Team Members in alphabetical order:
 
-2022,Jun-Jul
+*Mohammad Mozafari
+*Hossein Parto Hafshejani
+*Ali Safarpoor Dehkordi
+*Zahra Yousefi
+
+2022
